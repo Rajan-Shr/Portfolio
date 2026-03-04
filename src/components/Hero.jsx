@@ -79,7 +79,7 @@ function Hero() {
               Hi, I'm
             </p>
 
-            <p className="text-gray-400 text-3xl sm:text-4xl lg:text-5xl font-semibold mt-3">
+            <h1 className="text-gray-400 text-3xl sm:text-4xl lg:text-5xl font-semibold mt-3">
               <Typewriter
                 words={["Rajan Shrestha", "Software Engineer"]}
                 loop={0}
@@ -89,7 +89,7 @@ function Hero() {
                 delaySpeed={2000}
               />
               <span className="text-blue-400 animate-pulse">|</span>
-            </p>
+            </h1>
 
             <p className="text-gray-400 text-base sm:text-lg lg:text-xl mt-6 max-w-2xl leading-relaxed">
               Crafting end-to-end web applications with a focus on performance, usability, and clean code. I enjoy building responsive, user-friendly interfaces while ensuring backend systems are robust and scalable, delivering solutions that make an impact.
