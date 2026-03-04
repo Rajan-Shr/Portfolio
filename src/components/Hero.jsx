@@ -204,19 +204,19 @@ function Hero() {
           transform transition-all duration-700 ease-out
           ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
         >
-          <CountUp className="hover:text-blue-500 transition-all duration-300 ease-in-out" end={100} duration={2} suffix="+"
+          <CountUp className="hover:text-blue-500 transition-all duration-300 ease-in-out" end={20} duration={2} suffix="+"
             enableScrollSpy
             scrollSpyOnce />
-          <p className="text-sm font-medium text-gray-400">coffee sipped</p>
+          <p className="text-sm font-medium text-gray-400">Technologies</p>
         </div>
         <div className={`w-1/2 sm:w-1/4 cursor-context-menu
           transform transition-all duration-700 ease-out
           ${isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"}`}
         >
-          <CountUp className="hover:text-blue-500 transition-all duration-300 ease-in-out" end={45} duration={2} suffix="+"
+          <CountUp className="hover:text-blue-500 transition-all duration-300 ease-in-out" end={90} duration={2} suffix="+"
             enableScrollSpy
             scrollSpyOnce />
-          <p className="text-sm font-medium text-gray-400">late nights</p>
+          <p className="text-sm font-medium text-gray-400">lighthouse score</p>
         </div>
       </div>
     </section>
