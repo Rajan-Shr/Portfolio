@@ -60,7 +60,7 @@ function Experience() {
                         <h3 className="vertical-timeline-element-title text-xl font-semibold">React intern</h3>
                         <h4 className="vertical-timeline-element-subtitle text-[#b6b7bb]">Amnil Technologies, Lalitpur</h4>
                         <p className="text-[#b6b7bb]">
-                            Creative Direction, User Experience, Visual Design, Project Management, Team Leading
+                            Learned React fundamentals, built responsive user interfaces, and created reusable components
                         </p>
                     </VerticalTimelineElement>
                     <VerticalTimelineElement
@@ -85,7 +85,7 @@ function Experience() {
                         <h3 className="vertical-timeline-element-title text-xl font-semibold">.NET intern</h3>
                         <h4 className="vertical-timeline-element-subtitle text-[#b6b7bb]">CS InfoTech, Kathmandu</h4>
                         <p className="text-[#b6b7bb]">
-                            Creative Direction, User Experience, Visual Design, Project Management, Team Leading
+                            Developed ERP features using .NET, built responsive interfaces with Bootstrap and jQuery, and managed data with SQL Server
                         </p>
                     </VerticalTimelineElement>
                 </VerticalTimeline>
